@@ -111,6 +111,15 @@ _NOTE: This affects your Frontend Design score._
 4. Responsive to different screen sizes if web-based (at minimum, usable on a phone browser, since that may be how it's demoed).
 5. No raw/unstyled error pages, stack traces, or broken layouts visible to an end user.
 
+### 🤯 BONUS: Pentesting (+2 Points)
+
+1. Depending on your tech stack, try to break your To Do List app through user input (or URL modification)
+2. To get the bonus, you should be able to show your pentest and how you safeguard your application (include these in the Readme)
+3. For verification, we'll run the pentest without your security feature (attack works), and with your security feature (attack prevented).
+
+_EXAMPLE: For those utilizing SQL, SQL Injection + your security feature to prevent them._
+
+
 ### 📄 README Requirements
 
 The repository's `main` branch must include a final, updated `README.md` containing:
