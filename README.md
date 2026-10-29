@@ -111,13 +111,20 @@ _NOTE: This affects your Frontend Design score._
 4. Responsive to different screen sizes if web-based (at minimum, usable on a phone browser, since that may be how it's demoed).
 5. No raw/unstyled error pages, stack traces, or broken layouts visible to an end user.
 
-### 🤯 BONUS: Pentesting (+2 Points)
+### 🤯 BONUS: Pentesting OR Advanced Feature (+2 Points)
 
+Pentesting:
 1. Depending on your tech stack, try to break your To Do List app through user input (or URL modification)
 2. To get the bonus, you should be able to show your pentest and how you safeguard your application (include these in the Readme)
 3. For verification, we'll run the pentest without your security feature (attack works), and with your security feature (attack prevented).
 
 _EXAMPLE: For those utilizing SQL, SQL Injection + your security feature to prevent them._
+
+OR
+
+Advanced Feature:
+Determine an **advanced** feature that makes sense in your app (i.e. a chatbot, voice recog, smart parsing, built-in focus timers, etc).
+Score depends on how advanced and how well the feature has been implemented (1-2 points).
 
 
 ### 📄 README Requirements
